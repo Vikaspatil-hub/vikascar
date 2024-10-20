@@ -8,7 +8,7 @@ body {
     margin: 40px auto;
     padding: 20px;
     background-color: #f7f7f7;
-    border: 1px solid #1507e5;
+    border: 8px solid #1507e5;
     box-shadow: 0 0 10px rgba(226, 9, 19, 0.1);
     display: none;
   }
